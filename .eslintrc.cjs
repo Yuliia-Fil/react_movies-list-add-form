@@ -37,9 +37,6 @@ module.exports = {
     'prettier'
   ],
   rules: {
-
-  'import/extensions': 'off',
-
     // JS
     'semi': 'off',
     '@typescript-eslint/semi': ['error', 'always'],
